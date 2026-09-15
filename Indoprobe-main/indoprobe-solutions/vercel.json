@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["hkg1"],
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SITE_URL": "https://www.indoprobe.in"
+    }
+  }
+}
