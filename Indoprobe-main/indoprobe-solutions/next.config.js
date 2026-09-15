@@ -10,7 +10,6 @@ const nextConfig = {
   // Ensure trailing slashes are handled consistently
   trailingSlash: false,
   // Optimize for Vercel deployment
-  swcMinify: true,
   // Handle static asset optimization
   images: {
     unoptimized: false,
